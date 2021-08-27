@@ -1,0 +1,99 @@
+.fields {
+  width: 300px;
+  color: white;
+  display: block;
+  vertical-align: bottom;
+  display: inline-block;
+}
+
+.form-elements {
+  display: inline-block;
+  width: 80%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 6px;
+  color: white;
+  vertical-align: bottom;
+ 
+}
+form {
+  background: url("/images/image1.jpg");
+}
+.fields-square-radio {
+  color: white;
+  padding-right: 90px;
+}
+.fields-radio {
+  color: white;
+}
+.radio,
+.square_radio,
+.text_area {
+  margin-top: 10px;
+}
+.labels{
+    padding-left: 57px;
+} 
+.main{
+    text-align: center;
+}
+.email{
+  padding-right: 260px;
+}
+.name{
+  padding-right: 259px;
+}
+.age{
+  padding-right: 205px;
+}
+.recommandation{
+  padding-left: 21px;
+}
+.improvment{
+  padding-left: 62px;
+}
+.suggestion{
+  padding-right: 98px;
+}
+.definitely{
+  padding-right: 220px;
+}
+.recommendation{
+  padding-right: 240px;
+}
+.notsure{
+  padding-right: 230px;
+}
+.one{
+  padding-right: 70px;
+}
+.two{
+  padding-right: 72px;
+}
+.three{
+  padding-right: 71px;
+}
+.four{
+  padding-right: 117px;
+}
+.five{
+  padding-right: 25px;
+}
+.six{
+  padding-right: 75px;
+}
+.seven{
+  padding-right: 145px;
+}
+.eight{
+  padding-right: 102px;
+}
+.nine{
+  padding-right: 157px;
+}
+.ten{
+  padding-right: 146px;
+}
+.eleven{
+  padding-right: 65px;
+}

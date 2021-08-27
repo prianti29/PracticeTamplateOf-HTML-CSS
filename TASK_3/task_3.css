@@ -1,0 +1,31 @@
+table,
+td,
+th,
+tr {
+  border: solid black 1px;
+  padding: 15px;
+  /* border-collapse: collapse; */
+}
+.first-half {
+  height: 50%;
+  width: 100%;
+  text-align: center;
+}
+.second-half {
+  height: 50%;
+  width: 100%;
+  border-top: solid black 1px;
+  margin-right: -15px;
+  text-align: center;
+}
+.test {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  left: 0px;
+  right: -1px;
+}
+td {
+  position: relative;
+}

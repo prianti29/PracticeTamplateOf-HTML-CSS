@@ -1,0 +1,24 @@
+h3{
+  text-align: center;
+}
+.labels{
+  text-align: center;
+}
+ .fields {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: bottom;
+} 
+.form-elements{
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+  position: relative;
+}
+.radio, .square_radio , .text_area{
+  margin-top:15px;
+}

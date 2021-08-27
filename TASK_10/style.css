@@ -1,0 +1,234 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10px;
+}
+header {
+
+    box-shadow: black;
+    margin: auto;
+}
+nav {
+    height: 20px;
+    padding: 2% 6%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+.nav-logo {
+    margin-top: 15px;
+    font-size: 25px;
+}
+.nav-links {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: right;
+}
+.nav-links ul li {
+    margin-top: 15px;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding: 8px 10px;
+}
+.nav-links ul li a {
+    color: rgb(14, 12, 12);
+    text-decoration: none;
+}
+.btn {
+    padding: 3px;
+    font-size: 13px;
+    border-radius: 5px;
+}
+.btn-1 {
+    padding-left: 19px;
+    padding-right: 19px;
+    margin-right: 8px;
+    background: white;
+}
+.btn-2 {
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    background: black;
+}
+.container{
+
+    /* position: relative; */
+    /* max-width: 40%;
+    margin: auto;
+    margin-top: 15px;
+}
+.container p{
+    text-align: center;
+}
+.apps{
+    margin-top: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.app-1 h3{
+    text-align: center;
+}
+.app-2 h3{
+    text-align: center;
+}
+.app-1 img{
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.app-1 input{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.app-2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+}
+.app-2 input{
+    margin-top: 20px;
+    padding: 5px 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+.container textarea{
+    margin-left: 10px;
+    border-radius: 5px ;
+}
+.container textarea::placeholder{
+    padding-top: 15px;
+    padding-left: 15px ;
+}  
+.btn-3 {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 8px;
+    background: rgb(158, 146, 146);
+    color: white;
+
+}  */
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    box-shadow: black;
+}
+nav {
+    height: 20px;
+    padding: 2% 6%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+.nav-logo {
+    font-size: 25px;
+}
+.nav-links {
+    font-size: 20px;
+    text-align: right;
+}
+.nav-links ul {
+  display: flex;
+  flex-direction: row;
+}
+.nav-links ul li {
+    list-style: none;
+    padding-right: 20px;
+}
+.nav-links ul li a {
+    color: rgb(14, 12, 12);
+    text-decoration: none;
+}
+.btn {
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+}
+.btn-1 {
+    background: white;
+    margin-right: 10px;
+}
+.btn-2 {
+    color: white;
+    background: black;
+}
+.container{
+    max-width: 40%;
+    margin: auto;
+    margin-top: 15px;
+}
+.container p{
+    text-align: center;
+}
+.apps{
+    margin-top: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.app-1 h3{
+    text-align: center;
+}
+.app-2 h3{
+    text-align: center;
+}
+.app-1 img{
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.app-1 input{
+    margin-top: 20px;
+    padding: 5px 25px;
+    display: block;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.app-2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+}
+.app-2 input{
+    margin-top: 20px;
+    padding: 5px 25px;
+    display: block;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.container textarea{
+    margin-left: 10px;
+    border-radius: 5px ;
+  margin-top: 20px;
+}
+.container textarea::placeholder{
+    padding-top: 15px;
+    padding-left: 15px ;
+}  
+.btn-3 {
+ 
+    margin-left: 8px;
+    background: black;
+    color: white;
+
+}

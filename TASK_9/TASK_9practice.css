@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+
+}
+nav li {
+  display: inline-block;
+
+}
+nav li a {
+  text-decoration: none;
+  display: block;
+  padding-left: 24px;
+  font-size: 17px;
+  color: white;
+}
+nav {
+  padding: 20px;
+  width: 100%;
+  top: 30px;
+  background-color: black;
+  color: white;
+}
+.main-div {
+  display: flex;
+  justify-content: space-between;
+}
+.submit {
+  width: 65px;
+  border-radius: 15px;
+  margin-left: 10px;
+  padding: 3px;
+}
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+
+}
